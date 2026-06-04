@@ -1,0 +1,24 @@
+# Python virtual environment
+.venv/
+
+# IDE files
+.idea/
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Temporary files
+.ort_quant_tmp2/
+
+# Large data files (optional - uncomment if you don't want to track images)
+# data_set/
+# *.npz
+# *.pth
+# *.onnx
